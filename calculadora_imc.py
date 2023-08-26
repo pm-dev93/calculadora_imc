@@ -30,3 +30,4 @@ elif 35 <= bmi < 40:
     print ("Sua categoria de IMC é Obesidade II (Severa)")
 elif bmi >= 40:
     print ("Sua categoria de IMC é Obseidade III (Mórbida)")
+                                                                                                                                # pm-dev93
